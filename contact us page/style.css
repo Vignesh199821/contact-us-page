@@ -1,0 +1,41 @@
+
+.img_logo{
+    height: 50px;
+    width: 65px;
+}
+#heading{
+    font-family: "roboto";
+    font-size: 30px;
+    color:rgb(19, 7, 99);
+    font-weight: bold;
+
+}
+.para{
+     text-align: justify;
+     font-family: "roboto";
+    color: rgb(19, 7, 99);
+}
+#navbar_items{
+     color: rgb(19, 7, 99);
+     font-size: "roboto";
+     font-weight: 500;
+     margin-right: 20px;
+
+}
+.welcome_note{
+    color: rgb(19, 7, 99);
+}
+.button1{
+     border-width: 0px;
+     border-radius: 20px;
+     height: 40px;
+     width: 120px;
+     background-color: #13ba7d;
+     color: white;
+}
+.get_in_touch{
+    font-family: "roboto";
+    font-size: 25px;
+    color:rgb(19, 7, 99);
+    font-weight: bold;   
+}
